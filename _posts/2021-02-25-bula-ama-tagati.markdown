@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bulala ama tagati!"
-date:   2021-02-25 08:23:46 +0000
+date:   2021-02-25 08:00:46 +0000
 categories:
 ---
 
