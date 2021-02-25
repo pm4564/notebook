@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "irritating attempts at consolation"
-date:   2021-02-23 08:23:46 +0000
+date:   2021-02-24 08:23:46 +0000
 categories:
 ---
 
